@@ -1,0 +1,9 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "applovinBanner": "",
+    "applovinInterstitial": ""
+  }
+}
