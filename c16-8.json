@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
+    "adNetwork": "ironsource",
     "admobBanner": "",
     "admobInterstitial": "",
     "applovinBanner": "94b24ce545ac387d",
@@ -9,6 +9,6 @@
     "testMode": false,
     "unityBanner": "",
     "unityInterstitial": "",
-	"isAppId": "19cd88085"
+	"isAppId": "1a4c440fd"
   }
 }
