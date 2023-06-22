@@ -1,10 +1,10 @@
 {
   "AdsController": {
-    "adNetwork": "ironsource",
+    "adNetwork": "applovin",
     "admobBanner": "",
     "admobInterstitial": "",
-    "applovinBanner": "",
-    "applovinInterstitial": "",
+    "applovinBanner": "03cb92463e659c84",
+    "applovinInterstitial": "3b9cb4803f17c748",
     "unityGameId": "",
     "testMode": false,
     "unityBanner": "",
